@@ -1,0 +1,24 @@
+.container {
+  display: inline-block;
+  border: solid 3px rgb(0, 0, 0);
+  background-color: rgb(184, 180, 180);
+}
+
+.bar:hover {
+  fill: silver;
+}
+
+body {
+  background-color: grey;
+}
+
+.Title {
+  font-size: 50px;
+}
+
+.chart-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
